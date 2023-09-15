@@ -1,0 +1,20 @@
+{
+  "name": "js2-lesson-task",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "docs": "jsdoc main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "css": "^3.0.0",
+    "tailwind": "^4.0.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  }
+  
+}
